@@ -10,7 +10,7 @@ class App extends Component {
       <div class ="wallpaper">
       <div>
         <WordCard value="Engineering" />
-        <button><b>xxd</b></button>
+        <button><b>cc</b></button>
       </div></div>
     );
   }
